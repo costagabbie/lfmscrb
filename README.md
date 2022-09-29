@@ -3,8 +3,6 @@ Last.fm simple python scrobbler using pylast
 
 # Dependencies
 For lfmscrb.py : 
-
-  `colorama`  : https://pypi.org/project/colorama/
   
   `pylast`    : https://pypi.org/project/pylast/
   
