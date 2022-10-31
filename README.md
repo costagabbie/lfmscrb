@@ -11,7 +11,7 @@ For tlbuilder.py :
   `tinytag`   : https://pypi.org/project/tinytag/
 
 # Setup
-You will need to insert your last.fm API KEY and API SECRET in the code of lfmscrn.py, also your username and password.
+You will need to insert your last.fm API KEY and API SECRET in the code of lfmscrb.py, also your username and password.
 # Usage
 lfmscrb.py    : execute it and it will open the file `tracklist.csv` in its directory and pretend to play the song and scrobble it to last.fm
 You can use the `-s` flag to make it play only enough of the song to be classified as an valid scrobble accordingly to the documentation of last.fm API(https://www.last.fm/api/scrobbling).
